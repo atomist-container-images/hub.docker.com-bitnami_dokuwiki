@@ -79,18 +79,3 @@ FROM bitnami/dokuwiki:20200729.0.0-debian-10-r523
 
 # Tags: 20200729.0.0-debian-10-r522
 FROM bitnami/dokuwiki:20200729.0.0-debian-10-r522
-
-# Tags: 20200729.0.0-debian-10-r521
-FROM bitnami/dokuwiki:20200729.0.0-debian-10-r521
-
-# Tags: 20200729.0.0-debian-10-r520
-FROM bitnami/dokuwiki:20200729.0.0-debian-10-r520
-
-# Tags: 20200729.0.0-debian-10-r519
-FROM bitnami/dokuwiki:20200729.0.0-debian-10-r519
-
-# Tags: 20200729.0.0-debian-10-r518
-FROM bitnami/dokuwiki:20200729.0.0-debian-10-r518
-
-# Tags: 20200729.0.0-debian-10-r517
-FROM bitnami/dokuwiki:20200729.0.0-debian-10-r517
