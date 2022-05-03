@@ -1,12 +1,15 @@
-# Tags: latest, 20200729.0.0-debian-10-r578, 20200729.0.0, 20200729-debian-10, 20200729
+# Tags: latest, 20200729.0.0-debian-10-r579, 20200729.0.0, 20200729-debian-10, 20200729
 FROM bitnami/dokuwiki:latest
-FROM bitnami/dokuwiki:20200729.0.0-debian-10-r578
+FROM bitnami/dokuwiki:20200729.0.0-debian-10-r579
 FROM bitnami/dokuwiki:20200729.0.0
 FROM bitnami/dokuwiki:20200729-debian-10
 FROM bitnami/dokuwiki:20200729
 
 # Tags: _
 FROM bitnami/dokuwiki:_
+
+# Tags: 20200729.0.0-debian-10-r578
+FROM bitnami/dokuwiki:20200729.0.0-debian-10-r578
 
 # Tags: 20200729.0.0-debian-10-r577
 FROM bitnami/dokuwiki:20200729.0.0-debian-10-r577
@@ -88,6 +91,3 @@ FROM bitnami/dokuwiki:20200729.0.0-debian-10-r551
 
 # Tags: 20200729.0.0-debian-10-r550
 FROM bitnami/dokuwiki:20200729.0.0-debian-10-r550
-
-# Tags: 20200729.0.0-debian-10-r549
-FROM bitnami/dokuwiki:20200729.0.0-debian-10-r549
