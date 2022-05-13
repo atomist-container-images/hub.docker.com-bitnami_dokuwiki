@@ -1,12 +1,42 @@
-# Tags: latest, 20200729.0.0-debian-10-r579, 20200729.0.0, 20200729-debian-10, 20200729
+# Tags: latest, 20200729.0.0-debian-10-r589, 20200729.0.0, 20200729-debian-10, 20200729
 FROM bitnami/dokuwiki:latest
-FROM bitnami/dokuwiki:20200729.0.0-debian-10-r579
+FROM bitnami/dokuwiki:20200729.0.0-debian-10-r589
 FROM bitnami/dokuwiki:20200729.0.0
 FROM bitnami/dokuwiki:20200729-debian-10
 FROM bitnami/dokuwiki:20200729
 
 # Tags: _
 FROM bitnami/dokuwiki:_
+
+# Tags: 20200729.0.0-debian-10-r588
+FROM bitnami/dokuwiki:20200729.0.0-debian-10-r588
+
+# Tags: 20200729.0.0-debian-10-r587
+FROM bitnami/dokuwiki:20200729.0.0-debian-10-r587
+
+# Tags: 20200729.0.0-debian-10-r586
+FROM bitnami/dokuwiki:20200729.0.0-debian-10-r586
+
+# Tags: 20200729.0.0-debian-10-r585
+FROM bitnami/dokuwiki:20200729.0.0-debian-10-r585
+
+# Tags: 20200729.0.0-debian-10-r584
+FROM bitnami/dokuwiki:20200729.0.0-debian-10-r584
+
+# Tags: 20200729.0.0-debian-10-r583
+FROM bitnami/dokuwiki:20200729.0.0-debian-10-r583
+
+# Tags: 20200729.0.0-debian-10-r582
+FROM bitnami/dokuwiki:20200729.0.0-debian-10-r582
+
+# Tags: 20200729.0.0-debian-10-r581
+FROM bitnami/dokuwiki:20200729.0.0-debian-10-r581
+
+# Tags: 20200729.0.0-debian-10-r580
+FROM bitnami/dokuwiki:20200729.0.0-debian-10-r580
+
+# Tags: 20200729.0.0-debian-10-r579
+FROM bitnami/dokuwiki:20200729.0.0-debian-10-r579
 
 # Tags: 20200729.0.0-debian-10-r578
 FROM bitnami/dokuwiki:20200729.0.0-debian-10-r578
@@ -64,30 +94,3 @@ FROM bitnami/dokuwiki:20200729.0.0-debian-10-r561
 
 # Tags: 20200729.0.0-debian-10-r560
 FROM bitnami/dokuwiki:20200729.0.0-debian-10-r560
-
-# Tags: 20200729.0.0-debian-10-r559
-FROM bitnami/dokuwiki:20200729.0.0-debian-10-r559
-
-# Tags: 20200729.0.0-debian-10-r558
-FROM bitnami/dokuwiki:20200729.0.0-debian-10-r558
-
-# Tags: 20200729.0.0-debian-10-r557
-FROM bitnami/dokuwiki:20200729.0.0-debian-10-r557
-
-# Tags: 20200729.0.0-debian-10-r556
-FROM bitnami/dokuwiki:20200729.0.0-debian-10-r556
-
-# Tags: 20200729.0.0-debian-10-r555
-FROM bitnami/dokuwiki:20200729.0.0-debian-10-r555
-
-# Tags: 20200729.0.0-debian-10-r554
-FROM bitnami/dokuwiki:20200729.0.0-debian-10-r554
-
-# Tags: 20200729.0.0-debian-10-r553
-FROM bitnami/dokuwiki:20200729.0.0-debian-10-r553
-
-# Tags: 20200729.0.0-debian-10-r551
-FROM bitnami/dokuwiki:20200729.0.0-debian-10-r551
-
-# Tags: 20200729.0.0-debian-10-r550
-FROM bitnami/dokuwiki:20200729.0.0-debian-10-r550
